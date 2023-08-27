@@ -1,0 +1,12 @@
+table {
+  width: 300px;
+}
+table td,
+table th {
+  padding: 10px;
+  border: 2px solid #fa6c6c;
+}
+th:hover {
+  background-color: rgb(238, 238, 100);
+  cursor: pointer;
+}
